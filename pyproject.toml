@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "dalle2-python-example"
+version = "0.1.0"
+description = ""
+authors = ["Kunal Tiwary <kunal.tiwary@thoughtworks.com>"]
+readme = "README.md"
+packages = [{include = "dalle2_python_example"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+dalle2 = "^1.0.11"
+pandas = "^1.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

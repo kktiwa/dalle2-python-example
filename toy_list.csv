@@ -1,0 +1,65 @@
+style_ref,Fashion category,Style ,Price,Colour,Colour Classification,Colour Family,Subcategory,Sleeve length,sleeve shape,Fabric Composition,fabric category ,neck shape,Hem shape,silhouette fit,Pattern,Detail ,Fabric
+1,Basic,Linen V neck Tank,69.95,white,Basic light,white,short sleeve tops,short,Extended shoulder,Linen knit,Jersey,V neck,Curved hem,relaxed,Solid,,Natural fibre
+2,Basic,Linen V neck Tank,69.95,black,Basic Dark,black,short sleeve tops,short,Extended shoulder,Linen knit,Jersey,V neck,Curved hem,relaxed,Solid,,Natural fibre
+3,Basic,Linen V neck Tank,69.95,Tangelo,Seasonal mid,Dark orange,short sleeve tops,short,Extended shoulder,Linen knit,Jersey,V neck,Curved hem,relaxed,Solid,,Natural fibre
+4,Basic,Linen V neck Tank,69.95,bubblegum,Seasonal light,mid pink,short sleeve tops,short,Extended shoulder,Linen knit,Jersey,V neck,Curved hem,relaxed,Solid,,Natural fibre
+5,Basic,Linen V neck Tank,69.95,regatta blue,Basic Dark,dark blue,short sleeve tops,short,Extended shoulder,Linen knit,Jersey,V neck,Curved hem,relaxed,Solid,,Natural fibre
+6,Basic,Linen V neck Tank,69.95,forest green,Basic Dark,dark green,short sleeve tops,short,Extended shoulder,Linen knit,Jersey,V neck,Curved hem,relaxed,Solid,,Natural fibre
+7,Basic,Cotton crew long sleeve tee,49.95,white,Basic light,white,long sleeve tops,long slim,slim set in,100% cotton,Jersey,crew neck,straight hem,close fit,Solid,,Natural fibre
+8,Basic,Cotton crew long sleeve tee,49.95,black,Basic Dark,back,long sleeve tops,sleeveless,slim set in,95% cotton 5% elastane,Jersey,crew neck,straight hem,close fit,Solid,,Natural fibre
+9,Basic,Bind detail racer,39.95,oatmeal marle,Marle light,natural,tank tops,sleeveless,Racer back,95% cotton 5% elastane,Jersey,crew neck,straight hem,close fit,marle,,Natural fibre
+10,Basic,Bind detail racer,39.95,white,Basic light,white,tank tops,sleeveless,Racer back,95% cotton 5% elastane,Jersey,crew neck,straight hem,close fit,Solid,,Natural fibre
+11,Basic,Bind detail racer,39.95,regatta blue,Basic Dark,dark blue,tank tops,sleeveless,Racer back,95% cotton 5% elastane,Jersey,crew neck,straight hem,close fit,Solid,,Natural fibre
+12,Basic,Bind detail racer,39.95,black,Basic Dark,black,tank tops,sleeveless,Racer back,95% cotton 5% elastane,Jersey,crew neck,straight hem,close fit,Solid,,Natural fibre
+13,Basic,Bind detail racer,39.95,hot pink,Seasonal mid,bright pink,tank tops,sleeveless,Racer back,95% cotton 5% elastane,Jersey,crew neck,straight hem,close fit,Solid,,Natural fibre
+14,Basic,Bind detail racer,39.95,forest green,Basic Dark,dark green,tank tops,sleeveless,Racer back,95% cotton 5% elastane,Jersey,crew neck,straight hem,close fit,Solid,,Natural fibre
+15,Basic,Staple Cotton Crew,49.95,light grey marle,Marle light,light grey,Short sleeve tops,short,regular set in,100% cotton,Jersey,crew neck,straight hem,relaxed,marle,,Natural fibre
+16,Basic,Staple Cotton Crew,49.95,white,Basic light,white,Short sleeve tops,short,regular set in,100% cotton,Jersey,crew neck,straight hem,relaxed,marle,,Natural fibre
+17,Basic,Staple Cotton Crew,49.95,black,Basic Dark,black,Short sleeve tops,short,regular set in,100% cotton,Jersey,crew neck,straight hem,relaxed,marle,,Natural fibre
+18,Basic,Staple Cotton Crew,49.95,regatta blue,Basic Dark,dark blue,Short sleeve tops,short,regular set in,100% cotton,Jersey,crew neck,straight hem,relaxed,marle,,Natural fibre
+19,Basic,Staple Cotton Crew,49.95,jade,Seasonal mid,mid green,Short sleeve tops,short,regular set in,100% cotton,Jersey,crew neck,straight hem,relaxed,marle,,Natural fibre
+20,Basic,Staple Cotton Crew,49.95,bubblegum,Seasonal light,mid pink,Short sleeve tops,short,regular set in,100% cotton,Jersey,crew neck,straight hem,relaxed,marle,,Natural fibre
+21,Seasonal Basic,Stripe cotton rib scoop Tee,49.95,White ink,basic,white navy,short sleeve tops,elbow,slim set in,95% cotton 5% elastane,Jersey,scoop,straight hem,close fit,Brenton stripe,,Natural fibre
+22,Fashion,tribal linen v neck tee,79.95,Deep waters,earth tones,4 col all over print,extended shoulder,short,Extended shoulder,100% linen,Jersey,V neck,curved hem,regular,mid floral,,Natural fibre
+23,Seasonal Basic,Staple Cotton Crew,49.95,Ink,Basic,white navy stripe,Short sleeve tops,regular,regular set in,100% cotton,Jersey,crew neck,straight hem,regular,Brenton stripe,,Natural fibre
+24,Seasonal Basic,Stripe shirt tail tee,49.95,Lead blue,Basic,white navy stripe,Short sleeve tops,regular,regular set in,95% viscose 5% elastane,Jersey,round neck,shirt tail hem,regular,Brenton stripe,back pleat,synthetic
+25,Seasonal Basic,Linen V neck Tee,69.95,Ink,Basic,white navy stripe,Short sleeve tops,cap sleeve,extended shoulder,90% linen 10% Nylon,Jersey,V neck,curved hem,relaxed,Brenton stripe,,Natural fibre
+26,Fashion,Cotton Shirred shoulder Top,79.95,black,basic dark,black,workwear tops,elbow,voluminous sleeve,100% cotton,Jersey,sweetheart,straight hem,regular,Solid,shirring,Natural fibre
+27,Fashion,Cotton Shirred shoulder Top,79.95,White,basic light,white,workwear tops,elbow,voluminous sleeve,100% cotton,Jersey,sweetheart,straight hem,regular,Solid,shirring,Natural fibre
+28,Fashion,Cotton gathered sleeve top,79.95,emerald green,Seasonal mid,mid green,workwear tops,elbow,gathered sleeve,95% cotton 5% elastane,Jersey,V neck,straight hem,close fit,Solid,gathering,Natural fibre
+29,Fashion,Cotton gathered sleeve top,79.95,academy blue,seasonal basic,dark blue,workwear tops,elbow,gathered sleeve,95% cotton 5% elastane,Jersey,V neck,straight hem,close fit,Solid,gathering,Natural fibre
+30,Fashion,Cotton ribe wide neck top,59.95,oatmeal marle,Marle light,natural,long sleeve tops,long slim,slim set in,95% cotton 5% elastane,rib,wide square,straight hem,close fit,Solid,,Natural fibre
+31,Fashion,Cotton ribe wide neck top,59.95,black,basic dark,black,long sleeve tops,long slim,slim set in,95% cotton 5% elastane,rib,wide square,straight hem,close fit,Solid,,Natural fibre
+32,Fashion,Cotton ribe wide neck top,59.95,white,basic light,white,long sleeve tops,long slim,slim set in,95% cotton 5% elastane,rib,wide square,straight hem,close fit,Solid,,Natural fibre
+33,Fashion,Cotton ribe wide neck top,59.95,cherry,Basic mid,red,long sleeve tops,long slim,slim set in,95% cotton 5% elastane,rib,wide square,straight hem,close fit,Solid,,Natural fibre
+34,Fashion,Cotton ribe wide neck top,59.95,Luminous green,seasonal bright,bright green,long sleeve tops,long slim,slim set in,95% cotton 5% elastane,rib,wide square,straight hem,close fit,Solid,,Natural fibre
+35,Fashion,Cotton ribe wide neck top,59.95,Chocolate,seasonal dark,brown,long sleeve tops,long slim,slim set in,95% cotton 5% elastane,rib,wide square,straight hem,close fit,Solid,,Natural fibre
+36,Fashion,Cotton ribe wide neck top,59.95,Liliac,Seasonal light,light purple,long sleeve tops,long slim,slim set in,95% cotton 5% elastane,rib,wide square,straight hem,close fit,Solid,,Natural fibre
+37,Fashion,Leaf print gathered sleeve top,89.95,new leaf,basic,2 colour all over print,workwear tops,elbow,gathered sleeve,100% cotton,woven knit,V neck,straight hem,close fit,mid floral,gathering,Natural fibre
+38,Fashion,Oat Leaf Print Shirred Top,129.95,Rich orange,Seasonal mid,2 colour all over print,workwear tops,long voluminous,voluminous sleeve,65% lyocell 35% cotton,woven,V neck,straight hem,close fit,over micro floral,shirring,synthetic
+39,Fashion,Trim flutter sleeve top,79.95,black,basic dark,black,Short sleeve tops,cap sleeve,ruffle flutter sleeve,viscose nylon elastane,Jersey,crew neck,straight hem,regular,Solid,woven trim,synthetic
+40,Fashion,Trim flutter sleeve top,79.95,white,basic light,white,Short sleeve tops,cap sleeve,ruffle flutter sleeve,viscose nylon elastane,Jersey,crew neck,straight hem,regular,Solid,woven trim,synthetic
+41,Fashion,Trim flutter sleeve top,79.95,chambray,Seasonal light,light blue,Short sleeve tops,cap sleeve,ruffle flutter sleeve,viscose nylon elastane,Jersey,crew neck,straight hem,regular,Solid,woven trim,synthetic
+42,Fashion,Cotton stripe puff sleeve top,79.95,ink,Basic,white navy stripe,long sleeve tops,elbow,lantern sleeve,100% cotton,Jersey,crew neck,straight hem,regular,Brenton stripe,self covered cuff,Natural fibre
+43,Fashion,Twist neck knit,149.00,black,black,black,Short sleeve tops,elbow,slim set in,viscose cotton,knit,keyhole cut out,straight,regular,Solid,lurex yarn,synthetic
+44,Fashion,Twist neck knit,149.00,flax,basic light,natural,Short sleeve tops,elbow,slim set in,viscose cotton,knit,keyhole cut out,straight,regular,Solid,lurex yarn,synthetic
+45,Fashion,cotton rib henley,69.95,black,basic dark,black,tank tops,sleeveless,tank,95% cotton 5% elastane,Jersey,half button henley,straight,close fit,Solid,tortoiseshell buttons,Natural fibre
+46,Fashion,cotton rib henley,69.95,white,basic light,white,tank tops,sleeveless,tank,95% cotton 5% elastane,Jersey,half button henley,straight,close fit,Solid,tortoiseshell buttons,Natural fibre
+47,Fashion,cotton rib henley,69.95,blue midnight,basic,dark blue,tank tops,sleeveless,tank,95% cotton 5% elastane,Jersey,half button henley,straight,close fit,Solid,tortoiseshell buttons,Natural fibre
+48,Fashion,cotton rib henley,69.95,forest green,seasonal dark,dark green,tank tops,sleeveless,tank,95% cotton 5% elastane,Jersey,half button henley,straight,close fit,Solid,tortoiseshell buttons,Natural fibre
+49,Fashion,cotton tie long sleeve top,79.95,washed sage,light green,mid neutral,long sleeve tops,long sleeve tops,slim set in,100% cotton,Jersey,crew neck,straight,close fit,Solid,garment washed,Natural fibre
+50,Fashion,cotton tie long sleeve top,79.95,black,basic dark,black,long sleeve tops,long sleeve tops,slim set in,100% cotton,Jersey,crew neck,straight,close fit,Solid,garment washed,Natural fibre
+51,Fashion,cotton tie long sleeve top,79.95,white,basic light,white,long sleeve tops,long sleeve tops,slim set in,100% cotton,Jersey,crew neck,straight,close fit,Solid,garment washed,Natural fibre
+52,Statement,cotton rib strap top,49.95,black,basic dark,black,tank tops,sleeveless,tank,95% cotton 5% elastane,rib,cut out neck,straight,close fit,Solid,,Natural fibre
+53,Statement,cotton rib strap top,49.95,white,basic light,white,tank tops,sleeveless,tank,95% cotton 5% elastane,rib,cut out neck,straight,close fit,Solid,,Natural fibre
+54,Statement,cotton rib strap top,49.95,red,Basic mid,red,tank tops,sleeveless,tank,95% cotton 5% elastane,rib,cut out neck,straight,close fit,Solid,,Natural fibre
+55,Statement,Cotton rib halter,49.95,emerald green,Seasonal mid,mid green,tank tops,sleeveless,tank,95% cotton 5% elastane,rib,halter,straight,close fit,Solid,,Natural fibre
+56,Statement,Cotton rib halter,49.95,black,black,black,tank tops,sleeveless,tank,95% cotton 5% elastane,rib,halter,straight,close fit,Solid,,Natural fibre
+57,statement,spot halter mesh top,79.95,black white,black,2 colour all over print,tank tops,sleeveless,tank,100% polyester,mesh,halter,straight,close fit,all over spot print,,synthetic
+58,Basic,Staple tank,39.95,black,basic dark,black,tank tops,sleeveless,tank,95% cotton 5% elastane,Jersey,scoop,straight,close fit,Solid,,Natural fibre
+59,Basic,Staple tank,39.95,white,basic light,white,tank tops,sleeveless,tank,95% cotton 5% elastane,Jersey,scoop,straight,close fit,Solid,,Natural fibre
+60,Basic,Cotton scoop long sleeve tee,49.95,black,basic dark,black,long sleeve tops,long slim,slim set in,100% cotton,rib,scoop,straight,close fit,Solid,,Natural fibre
+61,Basic,Cotton scoop long sleeve tee,49.95,tango,Basic mid,red,long sleeve tops,long slim,slim set in,100% cotton,rib,scoop,straight,close fit,Solid,,Natural fibre
+62,Basic,Cotton scoop long sleeve tee,49.95,hot pink,Seasonal mid,bright pink,long sleeve tops,long slim,slim set in,100% cotton,rib,scoop,straight,close fit,Solid,,Natural fibre
+63,Basic,Cotton scoop long sleeve tee,49.95,emerald green,Seasonal mid,mid green,long sleeve tops,long slim,slim set in,100% cotton,Jersey,scoop,straight,regular,all over ikat print,straight,regular
+64,Fashion,Ikat Floral Cotton Top,89.95,lagoon,mid green,3 colour print,short sleeve tops,elbow,voluminous sleeve,100% cotton,Jersey,sweetheart,straight,regular,all over ikat print,straight,regular
